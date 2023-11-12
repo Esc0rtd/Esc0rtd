@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=photoshop,react,nodejs,vscode,cpp,csharp,html,python&theme=light)](https://skillicons.dev)
-**Esc0rtd/Esc0rtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=photoshop,react,nodejs,vscode,blender,cpp,cs,html,py&theme=light)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=discord,github,pr&theme=light)](https://skillicons.dev)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
