@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+[![My Skills](https://skillicons.dev/icons?i=photoshop,react,nodejs,vscode,cpp,csharp,html,python&theme=light)](https://skillicons.dev)
 **Esc0rtd/Esc0rtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
